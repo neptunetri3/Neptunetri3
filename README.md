@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:051a0d,30:0a3d1f,60:145a2e,100:1b6b38&height=260&section=header&text=Tri&fontSize=50&fontColor=c8f0d8&animation=fadeIn&fontAlignY=45&desc=Mechatronics%20•%20Embedded%20Systems%20•%20Melbourne&descAlignY=65&descSize=18&descColor=6dbe8c" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:051a0d,30:0a3d1f,60:145a2e,100:1b6b38&height=260&section=header&text=Tri&fontSize=50&fontColor=c8f0d8&animation=fadeIn&fontAlignY=45&desc=Mechatronics%20•%20Embedded%20Systems%20•%20Neptune&descAlignY=65&descSize=18&descColor=6dbe8c" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=3ECF74&center=true&vCenter=true&width=650&lines=Arduino+and+embedded+systems;SwiftUI+and+hardware+dashboards;Python+%2B+TypeScript;Homelab+stuff;Building+things+that+usually+work)](https://github.com/Bhishy3)
 

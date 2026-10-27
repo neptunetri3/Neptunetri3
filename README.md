@@ -82,14 +82,6 @@ A mix of embedded systems, hardware experiments, SwiftUI applications, dashboard
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neptunetri3&bg_color=00000000&color=3ecf74&line=3ecf74&point=a8e6c0&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b6b38,50:145a2e,100:051a0d&height=120&section=footer" width="100%"/>
 
 </div>
